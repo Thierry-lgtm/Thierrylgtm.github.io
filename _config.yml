@@ -9,28 +9,28 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "thierry /portfolio"
+title                    : "Thierry volant /portfolio"
 title_separator          : "-"
-name                     : &name "thierry"
-description              : &description "thierryrobert tech and information"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Thierry volant"
+description              : &description "Thierrylgtm tech and information"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "htpps/thierrylgtm.github.io"
+repository               : "Thierrylgtm.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gokuprime.jpg"
-  name             : "thierry robert"
+  avatar           : "goku.png"
+  name             : "Thierry Volant"
   pronouns         : # example: "she/her"  
-  bio              : "welcome to my world where technologie is indispensable"
+  bio              : "welcome to my world where technology is indispensable"
   location         : "Earth"
   employer         : "Immokalee technical college"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "volantthierry4567@gmail.org" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Thierrylgtm"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : # Synopsis
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -74,12 +74,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # Synopsis
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : # Synopsis
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
