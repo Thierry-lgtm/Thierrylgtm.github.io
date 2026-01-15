@@ -1,6 +1,6 @@
 ---
-title: "first md file"
-excerpt: "image that can help you fully understand our missions1<br/><img src='/images/redhawk1.png'>"
+title: "red hawk"
+excerpt: "this is how its done <br/><img src='/images/redhawk1.png'>"
 collection: portfolio
 ---
 
