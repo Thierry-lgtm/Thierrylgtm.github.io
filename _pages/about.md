@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thierrylgtm here for you for academic personal websites"
+title: "Thierry Volant here for you as a professional in computer system information and technology"
 author_profile: true
 redirect_from: 
   - /about/
