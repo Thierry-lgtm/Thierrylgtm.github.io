@@ -28,6 +28,7 @@ Skills
 * Customer service 
 * basic math skills
 * Attention to detail
+  
 
 Publications
 ======
